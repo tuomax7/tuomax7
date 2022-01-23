@@ -1,4 +1,4 @@
-### Moro moro 👋
+### Moro moro! / Hello there! 👋
 
 <!--
 **tuomax7/tuomax7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

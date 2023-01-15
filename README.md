@@ -1,6 +1,6 @@
 ### Moro moro! / Hello there! 👋
 
-Currently working on: PathBuilder, a web app using React, Node and MySQL 
+Currently working on: FindMyPath, a web path generator using React, Node and MySQL based on the Google Maps API.
 
 <!--
 **tuomax7/tuomax7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

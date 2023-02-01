@@ -1,5 +1,7 @@
 ### Moro moro! / Hello there! 👋
 
+[Visit my landing page!](https://users.aalto.fi/~nummelt3/index.html)
+
 Currently working on: FindMyPath, a web path generator using React, Node and MySQL based on the Google Maps API.
 
 <!--

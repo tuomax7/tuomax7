@@ -1,8 +1,14 @@
-### Moro moro! / Hello there! 👋
+<h1 align="center">Moro moro! / Hello there! 👋</h1>
 
-[Visit my landing page!](https://users.aalto.fi/~nummelt3/index.html)
+<h2 align="center">My name is Tuomas, and I am a Computer Science student interested in User Interface development. </h2>
 
-Currently working on: FindMyPath, a web path generator using React, Node and MySQL based on the Google Maps API.
+- 🔭 I am currently working on: [FindMyPath](https://github.com/tuomax7/tuomax7/pathbuilder), a web-based path generator using React, Node and MySQL based on the Google Maps API
+
+- 🌱 I am also learning TypeScript, TailwindCSS & Storybook!
+
+- 💻 My [landing page](https://tuomasnummela.onrender.com/) presents some of my other past and current projects
+
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tuomas-nummela-9596bb22b/)!
 
 <!--
 **tuomax7/tuomax7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

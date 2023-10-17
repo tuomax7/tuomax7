@@ -4,7 +4,7 @@
 
 - 🔭 I am currently working on: [FindMyPath](https://github.com/tuomax7/tuomax7/pathbuilder), a web-based path generator using React, Node and MySQL based on the Google Maps API
 
-- 🌱 I am also learning TypeScript, TailwindCSS & Storybook!
+- 🌱 I am also learning Flutter, TypeScript, TailwindCSS & Storybook!
 
 - 💻 My [landing page](https://tuomasnummela.onrender.com/) presents some of my other past and current projects
 

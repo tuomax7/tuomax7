@@ -2,9 +2,9 @@
 
 <h2 align="center">My name is Tuomas, and I am a Computer Science student interested in User Interface development. </h2>
 
-- 🔭 I am currently working on: [FindMyPath](https://github.com/tuomax7/tuomax7/pathbuilder), a web-based path generator using React, Node and MySQL based on the Google Maps API
+- 🔭 I am currently working on: [FindMyPath](https://github.com/tuomax7/tuomax7/pathbuilder), a web-based path generator using React, Node with TypeScript and MySQL based on the Google Maps API
 
-- 🌱 I am also learning TypeScript, TailwindCSS & Storybook!
+- 🌱 I am also learning NextJS, TailwindCSS, Astro & Svelte!
 
 - 💻 My [landing page](https://tuomasnummela.onrender.com/) presents some of my other past and current projects
 

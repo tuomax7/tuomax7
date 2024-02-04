@@ -2,7 +2,7 @@
 
 <h2 align="center">My name is Tuomas, and I am a Computer Science student interested in User Interface development. </h2>
 
-- 🔭 I am currently working on: [FindMyPath](https://github.com/tuomax7/PathBuilder), a web-based path generator using React, Node with TypeScript and MySQL based on the Google Maps API
+- 🔭 I am currently working on: [BogeyBuddies](https://github.com/tuomax7/bogeybuddies), a web application for tracking casual golf rivalries between friends. The client is built on NextJS with TypeScripted React and the backend consists of NodeJS and DynamoDB lambda functions facilitated by AWS Amplify.
 
 - 🌱 I am also learning NextJS, Storybook.js & AWS Amplify
 

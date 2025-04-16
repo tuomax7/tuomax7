@@ -2,13 +2,13 @@
 
 <h2 align="center">My name is Tuomas, and I am a Computer Science student at Aalto University and a Software Developer at Taito United!</h2>
 
-- 🔭 I am currently working on: [BogeyBuddies](https://github.com/tuomax7/bogeybuddies), a web application for tracking casual golf rivalries between friends. The client is built on NextJS with TypeScripted React and the backend consists of NodeJS and DynamoDB lambda functions facilitated by AWS Amplify.
+- 🔭 I am currently working on: [BogeyBuddies](https://github.com/tuomax7/bogeybuddies), a web application for tracking casual golf rivalries between friends. The client is built on Vite with TypeScripted React and the backend consists of Node.js with Express, hosted on Google Cloud Run.
 
-- 🌱 I am also learning NextJS, Storybook.js & AWS Amplify
+- 🌱 I am also learning Shadcn, Storybook.js & Google Cloud Platform
 
 - 💻 My [landing page](https://tuomasnummela.onrender.com/) presents some of my other past and current projects
 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tuomas-nummela-9596bb22b/)!
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tuomas-nummela/)!
 
 <!--
 **tuomax7/tuomax7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

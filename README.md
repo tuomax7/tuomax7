@@ -1,6 +1,6 @@
 <h1 align="center">Moro moro! / Hello there! 👋</h1>
 
-<h2 align="center">My name is Tuomas, and I am a Computer Science student at Aalto University and a Software Developer at Taito United!</h2>
+<h2 align="center">My name is Tuomas, and I am a Fullstack Web Developer at Taito United and a Computer Science student at Aalto University!</h2>
 
 - 🔭 I am currently working on: [BogeyBuddies](https://github.com/tuomax7/bogeybuddies), a web application for tracking casual golf rivalries between friends. The client is built on Vite with TypeScripted React and the backend consists of Node.js with Express, hosted on Google Cloud Run.
 

@@ -10,6 +10,20 @@
 
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tuomas-nummela/)!
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuomax7&layout=compact&theme=default&langs_count=8&card_width=320" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=tuomax7&theme=default" />
+  </a>
+</div>
+
+
+
+
+
 <!--
 **tuomax7/tuomax7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

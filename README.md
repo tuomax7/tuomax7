@@ -3,7 +3,7 @@
 <h2 align="center">My name is Tuomas, and I am a Fullstack Web Developer at Taito United and a Computer Science student at Aalto University!</h2>
 
 - 🔭 I am currently working on:
-    - [Hilma Procurement Slack Bot](https://github.com/tuomax7/slack-bot-hilma), a Slack bot that sends daily summarization messages on new procurement and project notices based on the Hilma AVP API. Runs as Google Cloud Run Function using Cloud Scheduler.
+    - [Hilma Procurement Slack Bot](https://github.com/tuomax7/slack-bot-hilma), a Slack bot that sends daily summarization messages on new procurement and project notices based on the Hilma AVP API. Runs as a Google Cloud Run Function using Cloud Scheduler.
     - [BogeyBuddies](https://github.com/tuomax7/bogeybuddies), a web application for tracking casual golf rivalries between friends. The client is built on Vite with TypeScripted React and the backend consists of Node.js with Express, hosted on Google Cloud Run.
 
 - 🌱 I am also learning Shadcn, Storybook.js & Google Cloud Platform

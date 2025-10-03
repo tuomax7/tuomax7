@@ -13,8 +13,8 @@
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tuomas-nummela/)!
 
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuomax7&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=tuomax7&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuomax7&layout=compact&theme=tokyonight&exclude_repo=Olfactory-VR,tuomax7.github.io" alt="Top Languages"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=tuomax7&show_icons=true&theme=tokyonight&exclude_repo=Olfactory-VR,tuomax7.github.io" alt="GitHub Stats" />
 
 </p>
 
